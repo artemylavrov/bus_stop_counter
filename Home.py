@@ -49,7 +49,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 st.subheader("Контактная информация")
 st.info(
     """
-    Автор - [Лавров Артём](https://github.com/artemylavrov) \n\n
+    Автор - [Лавров Артём!](https://github.com/artemylavrov) \n\n
     Контактный номер: 89588051441\n
     """
 )
